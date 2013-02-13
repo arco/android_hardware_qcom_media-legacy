@@ -355,6 +355,9 @@ enum OMX_QCOM_EXTN_INDEXTYPE
     OMX_QcomIndexParamVideoMaxAllowedBitrateCheck = 0x7F00001E,
 
     OMX_QcomIndexEnableSliceDeliveryMode = 0x7F00001F,
+
+    /*"OMX.QCOM.index.param.video.EnableSmoothStreaming"*/
+    OMX_QcomIndexParamEnableSmoothStreaming = 0x7F000022,
 };
 
 /**
